@@ -7,4 +7,4 @@ Sample Android project for single selection in RecyclerView.
 
 ## Demo
 
-![Alt Text](https://media.giphy.com/media/Ym6npNlyHZaWFDCgXY/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1irNeG8siwTWzHbvHZ/giphy.gif)
