@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SingleSelectionRecyclerView</string>
+    <array name="icon_array">
+        <item>@drawable/ic_facility</item>
+        <item>@drawable/ic_road</item>
+        <item>@drawable/ic_trash</item>
+        <item>@drawable/ic_flood</item>
+        <item>@drawable/ic_fire</item>
+    </array>
+
+    <array name="name_array">
+        <item>Facility</item>
+        <item>Road Access</item>
+        <item>Trash</item>
+        <item>Flood</item>
+        <item>Fire</item>
+    </array>
+</resources>
