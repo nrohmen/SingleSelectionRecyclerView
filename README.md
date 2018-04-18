@@ -1,9 +1,10 @@
 # SingleSelectionRecyclerView
 Sample Android project for single selection in RecyclerView.
 
-##Build with:
+## Build with:
 - Kotlin
 - Anko
 
-##Demo
+## Demo
+
 ![Alt Text](https://media.giphy.com/media/Ym6npNlyHZaWFDCgXY/giphy.gif)
